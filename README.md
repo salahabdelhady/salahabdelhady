@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.istockphoto.com/id/1330514107/photo/digital-background-with-moving-glowing-particles-futuristic-hi-tech-illustration-concept-of.jpg?s=2048x2048&w=is&k=20&c=wYoM29Hyi25DzbDj2ZVpIQyAFa7HRuyVD-cY1xZoR8E="  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 
 ###
 
