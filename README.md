@@ -42,6 +42,34 @@ I specialize in building scalable, clean, and high-performance systems, driven b
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 
+## 🚀 Projects
+
+### 🛒 Smart Store - E-Commerce Backend API  
+RESTful API for a scalable e-commerce platform with user management, product catalog, and admin roles.  
+**Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT  
+🔗 [View on GitHub](https://github.com/yourusername/smartstore-api)
+
+---
+
+### 📅 TaskSync - Task Management System  
+Real-time task manager for teams with roles, notifications, and dashboard analytics.  
+**Tech Stack:** ASP.NET Core, Angular, SignalR, SQL Server  
+🔗 [View on GitHub](https://github.com/yourusername/tasksync)
+
+---
+
+### 🧠 DevBlog API - Developer Blog Platform  
+Back-End API for a developer blog site with CRUD, tagging, and search features.  
+**Tech Stack:** .NET 7, EF Core, PostgreSQL  
+🔗 [View on GitHub](https://github.com/yourusername/devblog-api)
+
+---
+
+### 🌐 Personal Portfolio Website  
+Responsive website to showcase your profile, resume, and projects.  
+**Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
+🔗 [Live Demo](https://yourportfolio.com) | [GitHub](https://github.com/yourusername/portfolio)
+
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
