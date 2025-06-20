@@ -7,12 +7,11 @@
 </h1>
 <p>
   Welcome to my digital space!
-  Eng/ "Salah Abdelhadi" | Back-End Web Developer Angular.NET
- specialist with a Computer Science background. I build scalable, clean, and efficient systems with a passion for solving real-world problems.</p>
+I’m Eng. Salah Abdelhadi, a passionate Back-End Web Developer with a strong foundation in Computer Science and hands-on expertise in .NET and Angular technologies.
+I specialize in building scalable, clean, and high-performance systems, driven by a love for solving real-.
+</p>
 
-- 👨‍💻
-I'm Eng. Salah Abdelhadi, a graduate of the Faculty of Information Technology, specialized in Computer Science. I currently work as a Back-End Developer, with a strong focus on building scalable and efficient systems using .NET technologies.
-
+- 👨‍💻Back-End Developer specialized in .NET, with a background in Computer Science. I build scalable and efficient systems with real-world impact.
 - 📚 I'm also actively expanding my skills in both Frontend and Backend technologies, aiming to become a well-rounded full-stack developer capable of delivering complete and impactful web solutions..
 - 🎯Future Vision: Elevate my web development skills and build world-class websites that deliver real impact.
 - 🚀 Let’s build something amazing together — your next big solution starts here.
