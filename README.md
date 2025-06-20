@@ -39,6 +39,4 @@ I specialize in building scalable, clean, and high-performance systems, driven b
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github.com/salahabdelhady)
 <br>
-<a href="https://komarev.com/ghpvc/?username=salahabdelhady&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=salahabdelhady&style=for-the-badge">
-</a>
+
