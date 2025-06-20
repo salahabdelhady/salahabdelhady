@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-  Welcome to my digital space!
-I’m Eng. Salah Abdelhadi, a passionate Back-End Web Developer with a strong foundation in Computer Science and hands-on expertise in .NET and Angular technologies.
-I specialize in building scalable, clean, and high-performance systems, driven by a love for solving real-.
+ i'm Eng/ "Salah Abdelhadi", a Back-End Web Developer skilled in .NET & Angular, passionate about building scalable and high-performance systems.💻
 </p>
 
 - 👨‍💻Back-End Developer specialized in .NET, with a background in Computer Science. I build scalable and efficient systems with real-world impact.
@@ -22,8 +20,6 @@ I specialize in building scalable, clean, and high-performance systems, driven b
 <p>
 <a href="https://www.facebook.com/share/1CNYvPLMkU/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/salah-abdelhady-a98a142a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/salahabdelhady_10?igsh=MW8zb3hpMWl0a2plcw=="><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Facebook"></a>
@@ -41,6 +37,12 @@ I specialize in building scalable, clean, and high-performance systems, driven b
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+
+<!-- tolls -->
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 ## 🚀 Projects
 
@@ -70,11 +72,12 @@ Responsive website to showcase your profile, resume, and projects.
 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
 🔗 [Live Demo](https://yourportfolio.com) | [GitHub](https://github.com/yourusername/portfolio)
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+
+## 📫 Contact Me
+
+- 📧 **Email:** salahapdlhadi7@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/salah-abdelhadi](https://www.linkedin.com/in/salah-abdelhady-a98a142a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🧑‍💻 **GitHub:** [github.com/salahabdelhady](https://github.com/salahabdelhady)
 
 
 
