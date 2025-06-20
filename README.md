@@ -30,10 +30,23 @@ I specialize in building scalable, clean, and high-performance systems, driven b
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
+<!-- Back-End & Core -->
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-000000?style=flat&logo=microsoftsqlserver)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-000000?style=flat&logo=efcore)
+
+<!-- Front-End -->
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+
 
 
