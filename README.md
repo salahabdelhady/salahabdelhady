@@ -1,62 +1,44 @@
-<br clear="both">
 
-<h2 align="left">Hi there👋!<br>  I'm S̳a̳l̳a̳h̳ ̳A̳b̳d̳e̳l̳h̳a̳d̳y̳</h2>
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<h1>
+  Hi there👋!
+  I'm S̳a̳l̳a̳h̳ ̳A̳b̳d̳e̳l̳h̳a̳d̳y̳ 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+<p>
+Eng/ "Salah Abdelhadi" | Back-End Web Developer Angular.NET
+ specialist with a Computer Science background. I build scalable, clean, and efficient systems with a passion for solving real-world problems.</p>
 
-###
+- 👨‍💻 Welcome to my digital space!
+I'm Eng. Salah Abdelhadi, a graduate of the Faculty of Information Technology, specialized in Computer Science. I currently work as a Back-End Developer, with a strong focus on building scalable and efficient systems using .NET technologies.
 
-<br clear="both">
+- 📚 I'm also actively expanding my skills in both Frontend and Backend technologies, aiming to become a well-rounded full-stack developer capable of delivering complete and impactful web solutions..
+- 🎯Future Vision: Elevate my web development skills and build world-class websites that deliver real impact.
+- 🚀 Let’s build something amazing together — your next big solution starts here.
 
-<h2 align="left">About me</h2>
+.
+  
+- 📫 Social links
+<p>
+<a href="https://www.facebook.com/share/1CNYvPLMkU/"><img
+    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/salah-abdelhady-a98a142a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img
+    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.instagram.com/salahabdelhady_10?igsh=MW8zb3hpMWl0a2plcw=="><img
+    src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
+    alt="Facebook"></a>
+</p>
 
-###
+### 🛠 &nbsp;Technologies that I work with
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
-<br clear="both">
-
-<img align="right" height="200" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/raw/main/cropped_image.png"  />
-
-###
-
-<p align="left">Welcome to my world of code and creativity!<br>I'm Eng. Salah Abdelhadi, a graduate of the Faculty of Information Technology with a specialization in Computer Science. I currently work as a Back-End Developer, focused on building robust, scalable, and efficient systems using .NET technologies.<br><br>With a deep passion for solving complex problems and delivering clean, maintainable code, I strive to transform ideas into digital realities that drive results.<br><br>🚀 Let’s build something amazing together — your next big solution starts here.</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-</div>
-
-###
-
-<h3 align="center">😄 Can Connect With Me On</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="25" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="25" alt="whatsapp logo"  />
-</div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salahabdelhady.salahabdelhady&left_color=darkred&right_color=peachpuff&left_text=01011101101010"  />
-
-###
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
+![Top Langs](https://github.com/salahabdelhady)
+<br>
+<a href="https://komarev.com/ghpvc/?username=salahabdelhady&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=salahabdelhady&style=for-the-badge">
+</a>
