@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
- i'm Eng/ "Salah Abdelhadi", a Back-End Web Developer skilled in .NET & Angular, passionate about building scalable and high-performance systems.💻
+💻 Back-End Web Developer | Skilled in .NET & Angular | Passionate about building scalable, high-performance systems.
+
 </p>
 
 - 👨‍💻Back-End Developer specialized in .NET, with a background in Computer Science. I build scalable and efficient systems with real-world impact.
