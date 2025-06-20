@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://leadschool.in/wp-content/uploads/2022/04/shutterstock_1777292972.jpg"  />
+  <img height="250" src="https://leadschool.in/wp-content/uploads/2022/04/shutterstock_1777292972.jpg"  />
 </div>
 
 ###
