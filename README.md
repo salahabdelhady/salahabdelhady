@@ -44,33 +44,6 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
-## 🚀 Projects
-
-### 🛒 Smart Store - E-Commerce Backend API  
-RESTful API for a scalable e-commerce platform with user management, product catalog, and admin roles.  
-**Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT  
-🔗 [View on GitHub](https://github.com/yourusername/smartstore-api)
-
----
-
-### 📅 TaskSync - Task Management System  
-Real-time task manager for teams with roles, notifications, and dashboard analytics.  
-**Tech Stack:** ASP.NET Core, Angular, SignalR, SQL Server  
-🔗 [View on GitHub](https://github.com/yourusername/tasksync)
-
----
-
-### 🧠 DevBlog API - Developer Blog Platform  
-Back-End API for a developer blog site with CRUD, tagging, and search features.  
-**Tech Stack:** .NET 7, EF Core, PostgreSQL  
-🔗 [View on GitHub](https://github.com/yourusername/devblog-api)
-
----
-
-### 🌐 Personal Portfolio Website  
-Responsive website to showcase your profile, resume, and projects.  
-**Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
-🔗 [Live Demo](https://yourportfolio.com) | [GitHub](https://github.com/yourusername/portfolio)
 
 
 ## 📫 Contact Me
