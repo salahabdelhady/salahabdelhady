@@ -6,13 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-💻 Back-End Web Developer | Skilled in .NET & Angular | Passionate about building scalable, high-performance systems.
-
+🎨 Front-End Web Developer | Skilled in Angular & Modern Web Technologies | Passionate about creating interactive, user-friendly interfaces.
 </p>
 
-- 👨‍💻Back-End Developer specialized in .NET, with a background in Computer Science. I build scalable and efficient systems with real-world impact.
-- 📚 I'm also actively expanding my skills in both Frontend and Backend technologies, aiming to become a well-rounded full-stack developer capable of delivering complete and impactful web solutions..
-- 🎯Future Vision: Elevate my web development skills and build world-class websites that deliver real impact.
+- 👨‍💻 Front-End Developer specialized in Angular, with a background in Computer Science. I build responsive and engaging user interfaces with real-world impact.  
+- 📚 I'm also actively expanding my skills in both Frontend and Backend technologies, aiming to become a well-rounded full-stack developer capable of delivering complete and impactful web solutions.  
+- 🎯 Future Vision: Elevate my front-end development skills and create world-class web applications that deliver real impact.  
 - 🚀 Let’s build something amazing together — your next big solution starts here.
 
 .
