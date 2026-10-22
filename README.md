@@ -10,7 +10,7 @@
 
 - 👨‍💻 Front-End Developer specialized in Angular, with a background in Computer Science. I build responsive and engaging user interfaces with real-world impact.
 - ⚛️ Also experienced with **React** and modern **JavaScript (ES6+)**, allowing me to choose the right tool for each project.
-- 🧑‍🏫 Programming Instructor with hands-on experience teaching Front-End development, C++, Python, and Artificial Intelligence fundamentals at training companies including **Real Soft House**, **iScore**, and **Lachine Academy**.
+- 🧑‍🏫 Programming Instructor with hands-on experience teaching Front-End development, C++, Python, and Artificial Intelligence fundamentals at training companies including **Real Soft House**, **ischool**, and **Lasheen Academy**.
 - 📚 I'm also actively expanding my skills in Backend technologies, aiming to become a well-rounded full-stack developer capable of delivering complete web solutions.
 - 🎯 Future Vision: Elevate my front-end development skills and create world-class web applications that deliver real impact.
 - 🚀 Let's build something amazing together.
