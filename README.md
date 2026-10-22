@@ -21,9 +21,9 @@
 
 - **Programming Instructor** — Real Soft House (Cairo, Egypt)  
   Teaching Front-End fundamentals (HTML, CSS, JavaScript, Angular) and introductory programming logic to beginner students.
-- **Programming Instructor** — iScore (Egypt)  
+- **Programming Instructor** — iSchool (Egypt)  
   Delivering sessions on Python programming and AI fundamentals, focusing on practical problem-solving and real-world applications.
-- **Programming Instructor** — Lachine Academy  
+- **Programming Instructor** — lasheen Academy  
   Teaching C++ programming, algorithms, and structured problem-solving for students at various levels.
 
 ---
