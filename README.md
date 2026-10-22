@@ -1,68 +1,90 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
-<h1>
-  Hi there👋!
-  I'm S̳a̳l̳a̳h̳ ̳A̳b̳d̳e̳l̳h̳a̳d̳y̳ 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p>
-🎨 Front-End Web Developer & Programming Instructor | Angular & React Enthusiast | Teaching C++, Python & AI Fundamentals
-</p>
+<div align="center">
 
-- 👨‍💻 Front-End Developer specialized in Angular, with a background in Computer Science. I build responsive and engaging user interfaces with real-world impact.
-- ⚛️ Also experienced with **React** and modern **JavaScript (ES6+)**, allowing me to choose the right tool for each project.
-- 🧑‍🏫 Programming Instructor with hands-on experience teaching Front-End development, C++, Python, and Artificial Intelligence fundamentals at training companies including **Real Soft House**, **ischool**, and **Lasheen Academy**.
-- 📚 I'm also actively expanding my skills in Backend technologies, aiming to become a well-rounded full-stack developer capable of delivering complete web solutions.
-- 🎯 Future Vision: Elevate my front-end development skills and create world-class web applications that deliver real impact.
-- 🚀 Let's build something amazing together.
+<img src="https://github.com/salahabdelhady.png" width="140" alt="Salah Abdelhady">
 
----
+# Salah Abdelhady
 
-### 🧑‍🏫 Teaching & Instruction Experience
+**Front-End Developer &nbsp;|&nbsp; Angular & React &nbsp;|&nbsp; Programming Instructor**
 
-- **Programming Instructor** — Real Soft House (Cairo, Egypt)  
-  Teaching Front-End fundamentals (HTML, CSS, JavaScript, Angular) and introductory programming logic to beginner students.
-- **Programming Instructor** — iSchool (Egypt)  
-  Delivering sessions on Python programming and AI fundamentals, focusing on practical problem-solving and real-world applications.
-- **Programming Instructor** — lasheen Academy  
-  Teaching C++ programming, algorithms, and structured problem-solving for students at various levels.
+Cairo, Egypt
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahabdelhady105@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-abdelhady-a98a142a3)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salahabdelhady)
+
+</div>
 
 ---
 
-### 🛠 Technologies I work with
+## About me
 
-**Front-End (Core)**  
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+I am a Front-End developer who specializes in **Angular**, with a background in Computer Science. I build responsive, user-friendly interfaces for real products, and I also work with **React** and modern **JavaScript (ES6+)**, so I can choose the right tool for each project.
 
-**Teaching & Programming Languages**  
-![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![AI Fundamentals](https://img.shields.io/badge/-AI_Fundamentals-000000?style=flat)
+I teach programming professionally, and I am growing my back-end skills with **.NET** to become a full-stack developer who can deliver complete web solutions.
 
-**Back-End (Expanding)**  
-![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-000000?style=flat&logo=microsoftsqlserver)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-000000?style=flat)
-
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000000?style=flat&logo=visualstudio)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+**Goal:** build world-class web applications that make a real difference for their users.
 
 ---
 
-## 🚀 Featured Projects
-*(Add 2–3 Angular or React projects here with live demo + repo links)*
+## Tech stack
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Back-end (learning)**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Languages I teach**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Fundamentals](https://img.shields.io/badge/AI%20Fundamentals-444444?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Contact Me
+## Featured projects
 
-- 📧 **Email:** salahabdelhady105@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/salah-abdelhady-a98a142a3](https://www.linkedin.com/in/salah-abdelhady-a98a142a3)
-- 🧑‍💻 **GitHub:** [github.com/salahabdelhady](https://github.com/salahabdelhady)
+### [FreshCart](https://github.com/salahabdelhady/e-commerce)
+
+An e-commerce store built with Angular 16. Customers can register and log in, browse products, categories and brands, save favourites, manage a cart and pay online. Pages are lazy-loaded and protected by a route guard.
+
+`Angular` `TypeScript` `Bootstrap` `RxJS`
+
+<!-- Add a live demo link here once the site is deployed. -->
+
+---
+
+## Teaching experience
+
+| Role | Organization | What I teach |
+|---|---|---|
+| Programming Instructor | **Real Soft House**, Cairo | Front-End fundamentals (HTML, CSS, JavaScript, Angular) and programming logic for beginners |
+| Programming Instructor | **iSchool**, Egypt | Python programming and AI fundamentals, with a focus on practical problem solving |
+| Programming Instructor | **Lasheen Academy** | C++ programming, algorithms and structured problem solving for different levels |
+
+---
+
+## Contact
+
+- Email: [salahabdelhady105@gmail.com](mailto:salahabdelhady105@gmail.com)
+- LinkedIn: [salah-abdelhady-a98a142a3](https://www.linkedin.com/in/salah-abdelhady-a98a142a3)
+- GitHub: [salahabdelhady](https://github.com/salahabdelhady)
+
+Open to new opportunities and collaborations. Let's build something great together.
